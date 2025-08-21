@@ -69,4 +69,5 @@ Historical Comparison: Contextual data from previous Olympic games for trend ana
 
 
 ## Dashboard Preview
+https://github.com/divyaa2129/Olympic_Dashboard/blob/main/Olympic%20Dashboard.pbix
 
